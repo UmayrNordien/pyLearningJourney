@@ -1,0 +1,2 @@
+this is another added message 
+used \n to add to the file in a new line
